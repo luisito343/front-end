@@ -35,7 +35,7 @@ pnpm install
 
 Completa esta sección cuando publiques el proyecto.
 
-- URL de producción: `PENDIENTE`
+- URL de producción: https://front-end-git-main-luisito343s-projects.vercel.app/
 
 ## Variables de entorno
 
